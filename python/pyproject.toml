@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-"Homepage" = "https://github.com/rizkysaputradev/ambientor-real-time-engine"
-"Source"   = "https://github.com/rizkysaputradev/ambientor-real-time-engine"
-"Tracker"  = "https://github.com/rizkysaputradev/ambientor-real-time-engine/issues"
+"Homepage" = "https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine"
+"Source"   = "https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine"
+"Tracker"  = "https://github.com/rizkysaputradev/Ambientor-Real-Time-Engine/issues"
 
 [tool.maturin]
 # We use pyo3-based bindings
